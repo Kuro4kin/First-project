@@ -1,0 +1,16 @@
+.page {
+ min-width: 1100px;
+ max-width: 1600px;
+ background-color: blue;
+}
+.header {
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+.header__logo {
+  margin-top: 30px;
+  margin-left: 64px;
+  background-image: src="../how-to-learn/images/logo_place_header.svg";
+  background-size: 228px 32px;
+}
